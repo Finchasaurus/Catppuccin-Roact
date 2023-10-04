@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/catppuccin-roact",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Roact hooks and context for catppuccin.",
 	"main": "out/init.lua",
 	"scripts": {
