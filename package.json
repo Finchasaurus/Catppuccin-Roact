@@ -1,5 +1,5 @@
 {
-	"name": "@rbxts/catppuccincontext",
+	"name": "@rbxts/catppuccin-roact",
 	"version": "1.0.0",
 	"description": "Roact hooks and context for catppuccin.",
 	"main": "out/init.lua",
@@ -10,7 +10,7 @@
 	},
 	"keywords": [],
 	"author": "Theo Last - Finchasaurus",
-  "repository": "https://github.com/Finchasaurus/Catppuccin-Roact" ,
+	"repository": "https://github.com/Finchasaurus/Catppuccin-Roact",
 	"license": "MIT",
 	"types": "out/index.d.ts",
 	"files": [
